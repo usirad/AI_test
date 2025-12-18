@@ -1,0 +1,12 @@
+# 가상환경
+miniconda3/
+venv/
+.env
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
+
+# 설정 및 비밀 키
+config/config.py  # 만약 여기에 키를 직접 적으셨다면 제외해야 합니다.
+.vscode/
